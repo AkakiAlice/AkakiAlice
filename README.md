@@ -22,7 +22,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/alice-akaki-02474b202" target="_blank"><img height="25" width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="akakialice@gmail.com" target="_blank"><img height="25" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto: akakialice@gmail.com" target="_blank"><img height="25" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
