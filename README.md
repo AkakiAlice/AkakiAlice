@@ -6,8 +6,8 @@
 - 😄 Pronouns: She/Her
 
 <div>
- <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=AkakiAlice&count_private=true&show_icons=true&theme=aura_dark">
- <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkakiAlice&layout=compact&theme=aura_dark">
+ <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=AkakiAlice&count_private=true&show_icons=true&theme=aura_dark">
+ <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkakiAlice&layout=compact&theme=aura_dark">
 </div>
 
 
